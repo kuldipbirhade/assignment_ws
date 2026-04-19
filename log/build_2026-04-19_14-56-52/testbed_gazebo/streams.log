@@ -1,0 +1,51 @@
+[0.016s] Invoking command in '/home/kuldip/assignment_ws/build/testbed_gazebo': CMAKE_PREFIX_PATH=/home/kuldip/assignment_ws/install/testbed_description:/home/kuldip/assignment_ws/install/testbed_navigation:/home/kuldip/assignment_ws/install/testbed_gazebo:/home/kuldip/assignment_ws/install/testbed_bringup:/opt/ros/humble /usr/bin/cmake --build /home/kuldip/assignment_ws/build/testbed_gazebo -- -j12 -l12
+[0.044s] Invoked command in '/home/kuldip/assignment_ws/build/testbed_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/kuldip/assignment_ws/install/testbed_description:/home/kuldip/assignment_ws/install/testbed_navigation:/home/kuldip/assignment_ws/install/testbed_gazebo:/home/kuldip/assignment_ws/install/testbed_bringup:/opt/ros/humble /usr/bin/cmake --build /home/kuldip/assignment_ws/build/testbed_gazebo -- -j12 -l12
+[0.045s] Invoking command in '/home/kuldip/assignment_ws/build/testbed_gazebo': CMAKE_PREFIX_PATH=/home/kuldip/assignment_ws/install/testbed_description:/home/kuldip/assignment_ws/install/testbed_navigation:/home/kuldip/assignment_ws/install/testbed_gazebo:/home/kuldip/assignment_ws/install/testbed_bringup:/opt/ros/humble /usr/bin/cmake --install /home/kuldip/assignment_ws/build/testbed_gazebo
+[0.052s] -- Install configuration: ""
+[0.052s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//launch
+[0.052s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//launch/spawn_testbed.launch.py
+[0.052s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//launch/spawn_playground.launch.py
+[0.052s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//worlds
+[0.052s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//worlds/testbed_empty.world
+[0.052s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//worlds/testbed_playground.world
+[0.052s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models
+[0.053s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/wooden_fence
+[0.053s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/wooden_fence/wooden_fence
+[0.053s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/wooden_fence/wooden_fence/model.sdf
+[0.053s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/wooden_fence/wooden_fence/model.config
+[0.053s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/wooden_fence/model.sdf
+[0.053s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/wooden_fence/model.config
+[0.053s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/test_room
+[0.053s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/test_room/model.sdf
+[0.053s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/test_room/model.config
+[0.053s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/eric
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/eric/model.sdf
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/eric/model.config
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/Fence1
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/Fence1/model.sdf
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/Fence1/model.config
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/box_room
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/box_room/model.sdf
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/box_room/meshes
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/box_room/meshes/box_room.dae
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/box_room/meshes/chambre.png
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/box_room/model.config
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/my_world
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/my_world/model.sdf
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo//models/my_world/model.config
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/ament_index/resource_index/package_run_dependencies/testbed_gazebo
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/ament_index/resource_index/parent_prefix_path/testbed_gazebo
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo/environment/ament_prefix_path.sh
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo/environment/ament_prefix_path.dsv
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo/environment/path.sh
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo/environment/path.dsv
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo/local_setup.bash
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo/local_setup.sh
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo/local_setup.zsh
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo/local_setup.dsv
+[0.054s] -- Installing: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo/package.dsv
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/ament_index/resource_index/packages/testbed_gazebo
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo/cmake/testbed_gazeboConfig.cmake
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo/cmake/testbed_gazeboConfig-version.cmake
+[0.054s] -- Up-to-date: /home/kuldip/assignment_ws/install/testbed_gazebo/share/testbed_gazebo/package.xml
+[0.055s] Invoked command in '/home/kuldip/assignment_ws/build/testbed_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/kuldip/assignment_ws/install/testbed_description:/home/kuldip/assignment_ws/install/testbed_navigation:/home/kuldip/assignment_ws/install/testbed_gazebo:/home/kuldip/assignment_ws/install/testbed_bringup:/opt/ros/humble /usr/bin/cmake --install /home/kuldip/assignment_ws/build/testbed_gazebo
